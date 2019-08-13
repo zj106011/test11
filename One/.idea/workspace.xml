@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23e88659-9507-4b02-be61-a4a3df09b244" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/One/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/One/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/One/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/One/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tantan/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tantan/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tantan/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tantan/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tantan/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tantan/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tantan/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMMMM/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMMMM/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMMMM/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMMMM/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMMMM/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMMMM/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMMMM/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMMMM/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMapp/XMapp/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMapp/XMapp/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMapp/XMapp/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMapp/XMapp/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XMapp/manage.py" beforeDir="false" />
-    </list>
+    <list default="true" id="23e88659-9507-4b02-be61-a4a3df09b244" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +67,11 @@
               <item name="One" type="b2602c69:ProjectViewProjectNode" />
               <item name="One" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="One" type="b2602c69:ProjectViewProjectNode" />
+              <item name="One" type="462c0819:PsiDirectoryNode" />
+              <item name="Tantan" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -151,12 +132,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565683212256</updated>
-      <workItem from="1565683214694" duration="546000" />
+      <workItem from="1565683214694" duration="802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="546000" />
+    <option name="totallyTimeSpent" value="802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="47" width="1353" height="833" extended-state="0" />
